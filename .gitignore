@@ -2,11 +2,18 @@
 
 # dependencies
 /node_modules
+/dist
 /.pnp
 .pnp.js
 
 # testing
 /coverage
+
+# cache
+.cache/
+.parcel-cache/
+/.cache/
+/.parcel-cache/
 
 # next.js
 /.next/

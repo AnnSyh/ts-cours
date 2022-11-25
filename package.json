@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
   "devDependencies": {
     "@faker-js/faker": "^7.6.0",
     "@types/faker": "^6.6.9",

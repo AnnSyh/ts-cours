@@ -1,28 +1,13 @@
 # ts-cours-map
 
-## Getting Started
+## Установка и запуск
 
-- стягиваем проект
-
-git clone git@github.com:AnnSyh/ts-cours.git
-
- - переходим в папку ts-cours/
-
-cd ts-cours/
-
-- устанавливаем зависимости
-
-npm i
-
-- переходим в папку src/
-
-cd src/
-
- - и запускаем в ней проект 
-
-npm run build
-
-npm run dev
+- git clone git@github.com:AnnSyh/ts-cours.git - стягиваем проект
+- cd ts-cours/  - переходим в папку ts-cours/
+- npm i - установка зависимостей
+- cd src/  - переходим в папку src/
+- npm run build - сборка проекта
+- npm run dev - запуск проекта
 
 - Запускается localhost:
 
@@ -31,3 +16,9 @@ Server running at http://localhost:1234
 при на ведении на каждую сообщ с соот инфой
 
 http://joxi.ru/VrwK9Xbuo9xjVr
+
+
+## Используемые технологии:
+- Typescript
+- Parcel
+- Faker (https://fakerjs.dev/) отсюда парсим рандомные данные для точек

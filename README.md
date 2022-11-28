@@ -29,3 +29,5 @@ npm run dev
 Server running at http://localhost:1234
 стр с google картой и 2-я точками 
 при на ведении на каждую сообщ с соот инфой
+
+http://joxi.ru/VrwK9Xbuo9xjVr
